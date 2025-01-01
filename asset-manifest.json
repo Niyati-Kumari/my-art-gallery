@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-art-gallery/static/css/main.b065cf21.css",
+    "main.js": "/my-art-gallery/static/js/main.f6bf8abd.js",
+    "index.html": "/my-art-gallery/index.html",
+    "main.b065cf21.css.map": "/my-art-gallery/static/css/main.b065cf21.css.map",
+    "main.f6bf8abd.js.map": "/my-art-gallery/static/js/main.f6bf8abd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b065cf21.css",
+    "static/js/main.f6bf8abd.js"
+  ]
+}
