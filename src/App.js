@@ -54,7 +54,7 @@ function About() {
     <footer className="light-grey padding-64 center" id="about">
       <h2>About</h2>
       <img src="me.jpeg" className="image padding-32" width="300" height="300" alt="me" />
-      <form style={{ margin: 'auto', width: '60%' }} action="/action_page.php" target="_blank">
+      <form style={{ margin: 'auto', width: '60%' }} action="https://formspree.io/f/movvpdzr" target="_blank">
         <p>Welcome to my creative world! I'm an artist passionate about drawing, sketching, and painting. My art explores themes like nature, emotion, culture, aiming to inspire, provoke thought, and connect people through visual storytelling. Each piece I create reflects a journey whether it's through bold colors, intricate details, or minimalist elegance. I draw inspiration from nature, urban life, personal experiences, blending them into unique expressions that speak to the heart. Thank you for visiting my gallery. Whether you're here to explore, connect, or find that perfect piece for your collection, I'm thrilled to share my work with you.</p>
         <div className="section">
           <label><b>Name</b></label>
