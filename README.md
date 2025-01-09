@@ -1,6 +1,6 @@
-Art Gallery Web App:-
+Art Gallery App:-
 
-Welcome to the Art Gallery Web App, a React-based platform to showcase art in a visually stunning and organized way. This project is designed for art enthusiasts, artists, and galleries to display their collections interactively.
+Welcome to the Art Gallery App, a React-based platform to showcase art in a visually stunning and organized way. This project is designed for art enthusiasts, artists, and galleries to display their collections interactively.
 
 Features:-
 
